@@ -1,0 +1,4 @@
+- Hi, I’m Loki, and my pronouns are they/he.
+- I'm currently trying to develop an artificially intelligent voice assistant. 
+- I’m a semi-beginner, but currently learning python and c++. 
+- You can reach me on discord at dumbass911#0069. 
