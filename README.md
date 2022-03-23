@@ -1,4 +1,4 @@
-- Hi, I’m Loki, and my pronouns are they/he.
-- I'm currently trying to develop an artificially intelligent voice assistant. 
+- Hi, I’m Nova, and my pronouns are they/he.
+- I'm not currently working on any projects, but reach out if you need help on something.
 - I’m a semi-beginner, but currently learning python and c++. 
-- You can reach me on discord at dumbass911#0069. 
+- You can reach me on xmpp at linuxcaprisun.yax.im.
